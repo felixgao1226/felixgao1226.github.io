@@ -1,13 +1,4 @@
-title: Felix Gao's Blog
-description: A bored dev documenting his thoughts.
+title: Illusion's Blog
 author: Felix Gao
-
-remote_theme: mistakes/minimal-mistakes
-
-plugins:
-  - jekyll-include-cache
-
-markdown: kramdown
-highlighter: rouge
-
-minimal_mistakes_skin: dark
+description: A bored dev documenting his thoughts.
+theme: minima
