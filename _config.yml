@@ -2,7 +2,7 @@ title: Felix Gao's Blog
 description: A bored dev documenting his thoughts.
 author: Felix Gao
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
