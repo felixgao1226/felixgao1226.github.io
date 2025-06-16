@@ -2,3 +2,7 @@ title: Illusion's Blog
 author: Felix Gao
 description: A bored dev documenting his thoughts.
 theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
